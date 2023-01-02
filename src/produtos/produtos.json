@@ -1,0 +1,213 @@
+
+[
+  {
+    "nome":"Pimenta verde",
+    "valor": 8,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2022/11/pepper-plant-jalapeno-serrano.png",
+    "id": 1
+  },
+  {
+    "nome":"Cacau",
+   "valor": 14,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2014/05/cacao-brown-150x150.png",
+    "id": 2
+  },
+  {
+    "nome":"Tomate",
+    "valor": 4,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2014/05/tomatoes-three-botanical-tomato-flowers-leaves-150x150.png",
+    "id": 3
+  },
+  {
+    "nome":"Pimenta vermelha",
+    "valor": 7,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2014/05/peppers-red-chile-pepper.png",
+    "id": 4
+  },
+  {
+    "nome":"Banana",
+    "valor": 4,
+    "imag":"https://i.pinimg.com/236x/78/a1/e5/78a1e5ce5a6a0e9b4463900d9f879bbf.jpg",
+    "id": 5
+  },
+  {
+    "nome":"Uva roxa",
+    "valor": 13,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2019/01/grapes-red-cabernet-bunch-on-vine-leaves-500x452.png",
+    "id": 6
+  },
+  {
+    "nome":"Franboesa",
+    "valor": 50,
+    "imag":"https://i.pinimg.com/236x/26/01/73/2601738406be2d2b8fdc53887ed694c0.jpg",
+    "id": 7
+  },
+  {
+    "nome":"kiwi",
+    "valor": 19,
+    "imag":"https://i.pinimg.com/564x/0b/f0/91/0bf091ecd445d07abf8cbcea0394038c.jpg",
+    "id": 8
+  },
+  {
+    "nome":"Abobora",
+   "valor": 6,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2020/03/pumpkin-yellow-flower-leaves-botanica-150x150.png",
+    "id": 9
+  },
+  {
+    "nome":"Maça",
+    "valor": 13,
+    "imag":"https://i.pinimg.com/236x/e9/8c/1b/e98c1b902959e87237aeb84575f60ee9.jpg",
+    "id": 10
+  },
+  {
+    "nome":"Romã",
+    "valor": 6,
+    "imag":"https://i.pinimg.com/236x/cf/75/7f/cf757fb6fd840009340560d86dd705a5.jpg",
+    "id": 11
+  },
+  {
+    "nome":"Pessego",
+    "valor": 10,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2020/05/apricot-whole-half-leaf-graphic-illustration.png",
+    "id": 12
+  },
+  {
+    "nome":"Pepino",
+    "valor": 4,
+    "imag":"https://i.pinimg.com/236x/0a/f4/4b/0af44b6f33fcee600d67a2b04b45471b.jpg",
+    "id": 13
+  },
+  {
+    "nome":"Pimentão vermelho",
+    "valor": 11,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2014/05/pepper-bell-red-botanical1.png",
+    "id": 15
+  },
+  {
+    "nome":"Coco",
+   "valor": 11,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2014/05/coconuts-whole-half-piece-palm-150x150.png",
+    "id": 16
+  },
+  {
+    "nome":"Espinafre",
+   "valor": 15,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2022/05/spinach-bunch-1-150x150.png",
+    "id": 17
+  },
+  {
+    "nome":"Rabanete",
+   "valor": 10,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2022/05/beet-beetroot-red-globe-three-beets-stalks-leaves-1-150x150.png",
+    "id": 18
+  },
+  {
+    "nome":"Manga",
+   "valor": 8,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2020/03/mango-whole-cut-half-leaf-botanical-200x198.png",
+    "id": 19
+  },
+  {
+    "nome":"Mangostão",
+   "valor": 103,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2018/10/mangosteen-whole-cut-half-leaf-150x150.png",
+    "id": 20
+  },
+  {
+    "nome":"Figo",
+   "valor": 33,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2014/05/fig-cut-half-leaves-150x150.png",
+    "id": 21
+  },
+  {
+    "nome":"Guaraná",
+   "valor": 37,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2014/05/guarana-three-whole-two-leaves-150x150.png",
+    "id": 22
+  },
+  {
+    "nome":"Goiaba",
+   "valor": 9,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2020/03/guava-whole-cut-half-leaf-1-150x150.png",
+    "id": 23
+  },
+  {
+    "nome":"Abacate",
+   "valor": 15,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2014/05/avocados-whole-cut-half-green-150x150.png",
+    "id": 24
+  },
+  {
+    "nome":"Alcachofra",
+   "valor": 97,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2014/05/artichoke-head-fresh-150x150.png",
+    "id": 25
+  },
+  {
+    "nome":"Repolho",
+   "valor": 13,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2021/02/cabbage-plant-150x150.png",
+    "id": 26
+  },
+  {
+    "nome":"Cenoura",
+   "valor": 4,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2018/08/carrots-four-with-green-tops-1-150x150.png",
+    "id": 27
+  },
+  {
+    "nome":"Ervilha",
+   "valor": 14,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2018/08/peas-pod-leaves-pod-open-botanical-150x150.png",
+    "id": 28
+  },
+  {
+    "nome":"Grão de bico",
+   "valor": 15,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2014/05/chick-peas-lettuce-150x150.png",
+    "id": 29
+  },
+  {
+    "nome":"Milho",
+   "valor": 12,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2014/05/corn-yellow-ear-of-corn-150x150.png",
+    "id": 30
+  },
+  {
+    "nome":"Alface",
+   "valor": 8,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2022/03/greens-lettuce-leaf-150x150.png",
+    "id": 31
+  },
+  {
+    "nome":"Rúcula",
+   "valor": 9,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2019/10/arugula-wild-rucola-diplotaxis-tenuifolia-plant-150x150.png",
+    "id": 32
+  },
+  {
+    "nome":"Berinjela",
+   "valor": 6,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2019/04/zucchini-squash-one-whole-leaves-squash-flower-150x150.png",
+    "id": 33
+  },
+  {
+    "nome":"Cebola",
+   "valor": 7,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2014/05/onions-two-whole-one-cut-half-500x438.png",
+    "id": 34
+  },
+  {
+    "nome":"Alho",
+   "valor": 21,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2014/05/garlic-two-whole-three-cloves.png",
+    "id": 35
+  },
+  {
+    "nome":"Noz-pecã",
+   "valor": 81,
+    "imag":"https://douglasschneider.com/wp-content/uploads/2018/09/pecans-one-half-in-shell-one-half.png",
+    "id": 37
+  }
+]
